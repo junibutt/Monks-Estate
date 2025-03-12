@@ -20,12 +20,6 @@ const LogoList = () => {
         <img src={img3}></img>
       </div>
       <div>
-        <img src={img4}></img>
-      </div>
-      <div>
-        <img src={img5}></img>
-      </div>
-      <div>
         <img src={img6}></img>
       </div>
     </div>
